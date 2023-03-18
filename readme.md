@@ -1,1 +1,1 @@
-this is a discord bot cause I'm bored
+this is a discord bot cause I'm bored and want to broaden my coding horizons
