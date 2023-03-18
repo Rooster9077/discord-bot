@@ -1,0 +1,1 @@
+this is a discord bot cause I'm bored
